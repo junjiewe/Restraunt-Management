@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 	"github.com/gin-gonic/gin"
-	"go.mongodb.org/mongo-drive/mongo"
+	"go.mongodb.org/mongo-driver/mongo"
 
 	"restraunt-management/routes"
 	"restraunt-management/middleware"
